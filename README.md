@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhila
 
-I'm a pre-final year undergraduate student majoring in Computer Science. I'm passionate about full-stack development and constantly seeking opportunities to enhance my skills and knowledge in the field.
+I'm a final year undergraduate student majoring in Computer Science. I'm passionate about full-stack development and constantly seeking opportunities to enhance my skills and knowledge in the field.
 ## Skills
 - Programming Languages: Python, HTML, CSS, JavaScript, Java
 - Frameworks: Bootstrap
